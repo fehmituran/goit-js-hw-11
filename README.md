@@ -3,7 +3,7 @@
 
 ## Links
 
-- [Github](https://fehmituran.github.io/goit-js-hw-11/)
+- [Photo Gallery](https://fehmituran.github.io/goit-js-hw-11/)
 
 ## Installation
 
@@ -33,4 +33,4 @@ npm start
 
 ## :writing_hand: Authors
 
-- [Melisa Demirparmak](https://github.com/melisademirparmak)
+- [Fehmi Turan](https://github.com/fehmituran)
