@@ -1,2 +1,2 @@
 # Find Photo
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/fehmituran/goit-js-hw-11/blob/main/src/img/photogallery.gif)
