@@ -1,2 +1,36 @@
-# Find Photo
+# Photo Gallery
 ![](https://github.com/fehmituran/goit-js-hw-11/blob/main/src/img/photogallery.gif)
+
+## Links
+
+- [Github](https://fehmituran.github.io/goit-js-hw-11/)
+
+## Installation
+
+```
+npm install
+```
+
+## Starting project
+
+```
+npm start
+```  
+
+
+## :computer: Built with
+
+- [parcel-project-template](https://github.com/goitacademy/parcel-project-template)
+- [Javascript](https://javascript.info/)
+- [Pixabay api](https://pixabay.com/api/docs/)
+
+
+## :computer: Npm Packages
+
+- [Axios](https://axios-http.com/)
+- [Notiflix](https://github.com/notiflix/Notiflix#readme)
+- [SimpleLightbox](https://simplelightbox.com/)
+
+## :writing_hand: Authors
+
+- [Melisa Demirparmak](https://github.com/melisademirparmak)
