@@ -1,6 +1,9 @@
 # Photo Gallery
 ![](https://github.com/fehmituran/goit-js-hw-11/blob/main/src/img/photogallery.gif)
 
+
+Photo gallery was created using pagination from Pixabay api service.
+
 ## Links
 
 - [Photo Gallery](https://fehmituran.github.io/goit-js-hw-11/)
